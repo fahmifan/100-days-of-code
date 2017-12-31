@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 **Link to work:** [fahmifan blog](https://github.com/fahmifan/fahmifan_blog)
 
+### Day 2: Dec 31, 2017
+**Today's Progress**: Add social media icon and sidebar
+**Thoughts** Now, i know how to add costum components to the page, i'd like to tweak it more
+
 ### Day 1: Dec 30, 2017
 **Today's Progress**: Add costum css to the page layout
 **Thoughts** I'd like to convert my css to sassa, but i haven't figure it out.
