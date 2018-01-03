@@ -1,7 +1,14 @@
 # 100 Days Of Code - Log
 **Link to work:** [fahmifan blog](https://github.com/fahmifan/fahmifan_blog)
 
-### Day 3: Dec 1, 2017
+### Day 5: Jan 3, 2018
+**Today's Progress**: I added some icon to header, this is a suggestion from a guy in Slack group.
+**Thoughts** I am cool with that headers. Would like to add content for the blog. And move to next projects.
+
+### Day 4: Jan 2, 2018
+**Today's Progress**: First deploy to github pages. 
+
+### Day 3: Jan 1, 2018
 **Today's Progress**: I added side drawer for mobile view and separate components to it's own file. I also fixed the responsiveness, might look nice.
 **Thoughts** I think, it's my mvp and i can go for deployment.
 
