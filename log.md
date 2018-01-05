@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+
+### Day 7: Jan 5, 2018
+**Today's Progress**: I'm starting new project for make a portfolio page for my personal web. I finished the mockup using figma, it's free and have great tools.
+
+### Day 6: Jan 4, 2018
+**Today's Progress**: I did a assignment for  Udemy course about react-router. The instructur said that it took about 45 min to finished it. But, it took me 4 hours to finished. 
+
 **Link to work:** [fahmifan blog](https://github.com/fahmifan/fahmifan_blog)
 
 ### Day 5: Jan 3, 2018
