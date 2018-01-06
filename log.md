@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+## Personal Portfolio project
 **Link to work**[fahmifan.github.io](https://github.com/fahmifan/fahmifan.github.io/tree/refactor/to-using-react)
 
 ### Day 8: Jan 6, 2018
@@ -12,6 +13,7 @@
 ### Day 6: Jan 4, 2018
 **Today's Progress**: I did a assignment for  Udemy course about react-router. The instructur said that it took about 45 min to finished it. But, it took me 4 hours to finished. 
 
+## Personal blog Project
 **Link to work:** [fahmifan blog](https://github.com/fahmifan/fahmifan_blog)
 
 ### Day 5: Jan 3, 2018
