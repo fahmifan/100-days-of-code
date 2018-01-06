@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+**Link to work**[fahmifan.github.io](https://github.com/fahmifan/fahmifan.github.io/tree/refactor/to-using-react)
+
+### Day 8: Jan 6, 2018
+**Today's Progress**: I add new branch in the repo, then I made a DisplayPic and Home Components. 
+**Thoughts**: I find this kind of cool [Tachyons](http://tachyons.io/). It's called fungsional CSS (FCSS). I'd like to use it in this project..
+
 ### Day 7: Jan 5, 2018
 **Today's Progress**: I'm starting new project for make a portfolio page for my personal web. I finished the mockup using figma, it's free and have great tools.
 
