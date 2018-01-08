@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+## Twitch Streamer Previewer
+**Link to work** [Twitch streamer previewer](https://github.com/fahmifan/twitch_stream_previewer)
+
+### Day 9: Jan 8, 2018
+**Today's Progress**: The personal portfolio is in pending, because i need to make a change in mockup. Now i work on FCC Twitch API challenge. I am using react + tachyons to build it. 
+
+
 ## Personal Portfolio project
 **Link to work**[fahmifan.github.io](https://github.com/fahmifan/fahmifan.github.io/tree/refactor/to-using-react)
 
 ### Day 8: Jan 6, 2018
 **Today's Progress**: I add new branch in the repo, then I made a DisplayPic and Home Components. 
+
 **Thoughts**: I find this kind of cool [Tachyons](http://tachyons.io/). It's called fungsional CSS (FCSS). I'd like to use it in this project..
 
 ### Day 7: Jan 5, 2018
@@ -18,6 +26,7 @@
 
 ### Day 5: Jan 3, 2018
 **Today's Progress**: I added some icon to header, this is a suggestion from a guy in Slack group.
+
 **Thoughts** I am cool with that headers. Would like to add content for the blog. And move to next projects.
 
 ### Day 4: Jan 2, 2018
@@ -25,14 +34,17 @@
 
 ### Day 3: Jan 1, 2018
 **Today's Progress**: I added side drawer for mobile view and separate components to it's own file. I also fixed the responsiveness, might look nice.
+
 **Thoughts** I think, it's my mvp and i can go for deployment.
 
 ### Day 2: Dec 31, 2017
 **Today's Progress**: Add social media icon and sidebar
+
 **Thoughts** Now, i know how to add costum components to the page, i'd like to tweak it more
 
 ### Day 1: Dec 30, 2017
 **Today's Progress**: Add costum css to the page layout
+
 **Thoughts** I'd like to convert my css to sassa, but i haven't figure it out.
 
 ### Day 0: Dec 29, 2017
