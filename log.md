@@ -3,7 +3,7 @@
 ## Twitch Streamer Previewer
 **Link to work** [Twitch streamer previewer](https://github.com/fahmifan/twitch_stream_previewer)
 
-### Day 9: Jan 8, 2018
+### Day 9: Jan 8, 2018 
 **Today's Progress**: The personal portfolio is in pending, because i need to make a change in mockup. Now i work on FCC Twitch API challenge. I am using react + tachyons to build it. 
 
 
