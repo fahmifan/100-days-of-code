@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 12: 2 Feb, 2018
+### Personal Project
+  **Today's Progress**: Make mockup from the sketch using Figma
+
+## Day 11: 1 Feb, 2018
+
+### FCC Frontend Certificate
+  **Today's Progress**: Continue Intermediete Algorithm Scripting
+It almost done, :D
+
+### Personal Project
+  - Make sketch of app for Telkom Hackathon.
+  - I think, it's a good chance to use my React skills (y) in this project even the deadline is a week
+
+## Day 10: 31 Jan, 2018 
+
+### FCC Frontend Certificate
+**Today's Progress**: Continue Intermediete Algorithm Scripting
+
+### FCC Backedn Certificate
+**Today's Progress**: Continue Backend NodeJs & ExpressJs
+
 ## Twitch Streamer Previewer
 **Link to work** [Twitch streamer previewer](https://github.com/fahmifan/twitch_stream_previewer)
 
