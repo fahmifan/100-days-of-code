@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 13: 3 Feb, 2018
+**Today's Progress**: 
+Working on new side project. It is a food app, and i have a team of 3: designer, frontend(me), backend. We'll try to make this app in a week (one sprint). I start by making static page in react.
+
 ## Day 12: 2 Feb, 2018
 ### Personal Project
   **Today's Progress**: Make mockup from the sketch using Figma
