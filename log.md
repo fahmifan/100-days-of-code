@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+## Day 14: 8 Feb, 2018
+Working on my new project made me forgot to update the progress here :/. I have finished frontend in react + tahcyons + styled-components & redux. My friends is working on the API using Lumen.This is kind of real project for me. I want to make this project live on the web and add more feature in future. The goal is to make the college students in Jatinangor can easily find the menus of restos there in one web. They can get the phone number if they have delivery service, & give a review. Also, this project is a place for me to learn more about web dev. 
+
 ## Day 13: 3 Feb, 2018
 **Today's Progress**: 
 Working on new side project. It is a food app, and i have a team of 3: designer, frontend(me), backend. We'll try to make this app in a week (one sprint). I start by making static page in react.
